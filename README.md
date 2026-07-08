@@ -1,84 +1,95 @@
-👩‍💻 About Me
-I'm Talha Aftab, an AI Engineer with over 3+ years of industry experience. I specialize in LLM Agents, Retrieval-Augmented Generation (RAG) applications, and natural language processing (NLP). Leveraging advanced machine learning algorithms and frameworks like LangChain, I develop AI solutions that transform data into actionable insights.
+<h1 align="center">Hi 👋, I'm Talha</h1>
+<h3 align="center">AI/ML Engineer | LLM & RAG Systems | Data Analyst / BI Developer</h3>
 
-🔭 I’m currently working as an AI Engineer.
-📚 Currently learning advanced AI systems and optimizing language models.
-⚡ In my free time, I enjoy solving complex AI problems and exploring new technologies.
-🛠️ Technologies & Tools
-TensorFlow logo PyTorch logo NumPy logo Pandas logo Scikit-learn logo Keras logo Apache Spark logo SQLite logo MySQL logo PostgreSQL logo
-🔍 Expertise & Skills
-✔️ Model Development: Creating and optimizing machine learning and deep learning models tailored to specific business needs, ensuring accuracy and efficiency.
-✔️ Computer Vision: Developing advanced computer vision solutions for tasks like image classification, object detection, and facial recognition.
-✔️ NLP Solutions: Implementing cutting-edge natural language processing techniques for sentiment analysis, text generation, and chatbot development.
-✔️ Data Analysis: Utilizing data preprocessing and visualization techniques to uncover valuable insights from complex datasets.
-✔️ Predictive Analytics: Building predictive models to forecast trends and behaviors, helping businesses make informed decisions.
-✔️ LLM Agents: Designing advanced agents for natural language understanding and generation.
-✔️ RAG Applications: Developing frameworks for enhanced information retrieval and context-based responses.
-✔️ LangChain: Creating robust AI applications integrating language models with external data sources.
-✔️ Prompt Engineering: Crafting effective prompts to optimize model performance.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=650&lines=Building+multi-agent+AI+systems+with+LangGraph;RAG+%2B+LLM+Applications;Power+BI+%26+Microsoft+Fabric+Dashboards;PySpark+%2F+Databricks+%2F+MLOps" alt="Typing SVG" />
+</p>
 
-🔹 Key Technologies:
-AI Tools: TensorFlow, PyTorch, Hugging Face Transformers
-NLP Libraries: NLTK, SpaCy, Gensim
-Machine Learning Techniques: Supervised and unsupervised learning, deep learning
-Data Analytics: Pandas, NumPy, Matplotlib
-🚀 AI Services Offered
-Custom AI Solutions
-Model Development
-NLP Consulting
-Prompt Optimization
-Data Analysis & Visualization
-AI-Driven Chatbots
-Recommendation Systems
-Automated Data Processing
-Predictive Analytics
-Anomaly Detection
-📝 Projects Worked On
-✔️ Image Classification
-✔️ Natural Language Processing (NLP)
-✔️ Deep Learning Applications
-✔️ Computer Vision Solutions
-✔️ Reinforcement Learning
-✔️ Adversarial Defense
-✔️ Sentiment Analysis
-✔️ Object Detection
-✔️ Speech Recognition
-✔️ Machine Translation
-✔️ Recommender Systems
-✔️ Automated Cybersecurity Solutions
-✔️ Predictive Analytics
-✔️ Text Generation
-✔️ Face Recognition
-✔️ Chatbot Development
-✔️ Data Mining
-✔️ Feature Engineering
-✔️ Time Series Forecasting
-✔️ Anomaly Detection
-✔️ Time Series Analysis
-✔️ Predictive Maintenance
-✔️ Fraud Detection
-✔️ Customer Segmentation
-✔️ Stock Price Prediction
-✔️ Image Segmentation
-✔️ Speech Emotion Recognition
-✔️ Medical Image Analysis
-✔️ Text Summarization
-✔️ Recommendation Systems for E-commerce
-✔️ Web Scraping for Data Collection
-✔️ Data Visualization Dashboards
-✔️ Automated Machine Learning (AutoML)
-✔️ Hyperparameter Tuning and Model Optimization
-✔️ Transfer Learning Applications
-✔️ Generative Adversarial Networks (GANs)
-📊 My GitHub Stats:
-Streak Stats Top Languages
-Why Work With Me?
-Expertise: Extensive experience in LLMs, RAG applications, and NLP.
-Customization: Tailored solutions for your unique business needs.
-Collaboration: Open communication for exceptional results.
-🌟 AI Engineer | LLM Agents | RAG | LangChain | NLP | Prompt Engineering
-✅ 3+ years of industry experience
-✅ 50+ successful projects completed
-✅ Proven track record with scalable projects
-🔗 Connect with Me
-linkedin logo Connect with Me
+<p align="center">
+  <a href="https://talha-portfolio-ten.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/talhaaftab11" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+I'm an AI/ML Engineer and Data Analyst/BI Developer with 4+ years of experience building production-grade AI systems and analytics platforms. My work spans **LLM orchestration, Retrieval-Augmented Generation (RAG), computer vision, and MLOps**, alongside deep experience in **BI development** using Power BI, Microsoft Fabric, and Databricks/PySpark.
+
+- 🔭 Currently building **ASDT (Autonomous Software Development Team)** — a multi-agent AI orchestration system with 12 specialized agents, built on LangGraph, FastAPI, Docker/Kubernetes, and Postgres-backed checkpointing.
+- 🌱 Deepening expertise in agentic AI architectures, structured agent-to-agent contracts, and scalable MLOps pipelines.
+- 💼 Open to AI/ML Engineering and BI Developer roles across Pakistan, Malaysia, UAE, and remote.
+- 📫 Reach me via [LinkedIn](https://linkedin.com/in/talhaaftab11) or through my [portfolio](https://talha-portfolio-ten.vercel.app).
+
+---
+
+### 🛠️ Tech Stack
+
+**AI / ML & LLMs**
+<p>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+</p>
+
+**Data Engineering & BI**
+<p>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20Fabric-3B82F6?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+</p>
+
+**Backend & DevOps**
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+**[ASDT — Autonomous Software Development Team](https://github.com/TalhaAlam1)**
+Multi-agent AI orchestration system coordinating 12 specialized agents through LangGraph, with Pydantic-validated JSON contracts, Postgres-backed checkpointing, and Docker/Kubernetes deployment.
+
+**CM Punjab Government Solarization Program**
+ML-based anomaly detection across 8,000+ IoT-enabled agricultural sites, paired with Power BI dashboards for real-time monitoring and reporting.
+
+**Real-Time Cricket Trading Intelligence System**
+Live market signal generation combining WebSocket data feeds, XGBoost models, and a RAG-powered chatbot for in-play analysis.
+
+---
+
+### 📜 Certifications
+
+- Databricks Certified Apache Spark 3.0 Developer
+- Huawei Certified AI (HCIA-AI)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TalhaAlam1&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaAlam1&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TalhaAlam1&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://linkedin.com/in/talhaaftab11"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://talha-portfolio-ten.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
